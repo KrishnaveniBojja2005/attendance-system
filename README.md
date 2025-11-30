@@ -1,3 +1,6 @@
+#Student Nam:Bojja krishanevni
+#Roll No:22102A040696
+#College Name:Mohan Babu University,Tirupati,Andhra Pradesh
 # Employee Attendance System
 
 A complete Employee Attendance System built with Node.js, Express, MongoDB (Atlas), React/Vite — with both **Employee** and **Manager** interfaces.  
