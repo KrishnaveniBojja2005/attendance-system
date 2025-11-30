@@ -1,0 +1,10 @@
+Employee ID,Name,Email,Department,Date,Check In,Check Out,Status,Total Hours
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-29,2025-11-30T06:27:42.277Z,2025-11-30T06:27:42.277Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-28,2025-11-30T06:27:42.279Z,2025-11-30T06:27:42.279Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-27,2025-11-30T06:27:42.281Z,2025-11-30T06:27:42.281Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-26,2025-11-30T06:27:42.283Z,2025-11-30T06:27:42.283Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-25,2025-11-30T06:27:42.284Z,2025-11-30T06:27:42.284Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-24,2025-11-30T06:27:42.286Z,2025-11-30T06:27:42.286Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-23,2025-11-30T06:27:42.288Z,2025-11-30T06:27:42.288Z,present,8
+EMP001,Bob Employee,bob@company.com,Engineering,2025-11-30,2025-11-30T06:31:26.765Z,2025-11-30T06:31:29.987Z,late,0
+EMP00123,hari Kumar,bojja@gmail.com,IT,2025-11-30,2025-11-30T09:04:28.381Z,2025-11-30T09:04:43.902Z,late,0
